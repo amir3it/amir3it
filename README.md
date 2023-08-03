@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my friend, I am a web programmer in Iran.<br>
+Hello, my friend, I am a web programmer from Iran.<br>
 My expertise is in back-end design and programming, but I also work with the principles of front-end design and I am proficient in front-end and its frameworks.
 
 <h1>Learning</h1>
