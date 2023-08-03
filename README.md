@@ -45,3 +45,9 @@ I am currently learning security and network to provide a safe environment for t
 <a href="#">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width: 100%;">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" style="max-width: 100%;">
+</a>
