@@ -70,3 +70,15 @@ I am also making progress in designing with Laravel
 <a href="#">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" style="max-width: 100%;">
 </a>
+
+<h1>Soft Skils</h1>
+<h4>Time Management😎</h4>
+<h4>Teamwork</h4>
+<h4>Creative Mind😍</h4>
+
+<h1>How to reach me??</h1>
+
+Telegram : @Amir3it <br>
+Email : amirdev.zah@gmail.com <br>
+
+<h4>Thanks for checking out my GitHub Profile! 🙏</h4>
