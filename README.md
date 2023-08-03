@@ -18,7 +18,8 @@ Hello, my friend, I am a web programmer in Iran.<br>
 My expertise is in back-end design and programming, but I also work with the principles of front-end design and I am proficient in front-end and its frameworks.
 
 <h1>Learning</h1>
-I am currently learning security and network to provide a safe environment for the user along with working with the backend.
+I am currently learning security and network to provide a safe environment for the user along with working with the backend.<br>
+I am also making progress in designing with Laravel
 
 <h1>Hard skills</h1>
 <h3>Back End</h3>
