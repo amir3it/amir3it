@@ -51,3 +51,17 @@ I am currently learning security and network to provide a safe environment for t
 <a href="#">
 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" style="max-width: 100%;">
 </a>
+<h3>DATABASES</h3>
+<a href="#">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="max-width: 100%;">
+</a>
+<h3>CODE EDITOR & IDES</h3>
+<a href="#" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" style="max-width: 100%;">
+</a>
