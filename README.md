@@ -43,6 +43,11 @@ I am also making progress in designing with Laravel
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="max-width: 100%;">
 </a>
 
+<h3>DESIGN TOOLS</h3>
+<a href="#">
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" style="max-width: 100%;">
+</a>
+
 <h3>DEVOPS TOOLS</h3>
 <a href="#">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
